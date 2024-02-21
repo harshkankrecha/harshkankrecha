@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harsh Kankrecha</h1>
 <h3 align="center">A passionate Problem Solver from India.</h3>
 
-- 👀 I’m interested in **Competitive Programming and Web Development.**
+- 👀 I’m interested in **Programming**
 
-- 💬 Ask me about **DSA(Python🐍), Django**
+- 💬 Ask me about **Python, Java, Javascript, C++, Django, React, Express, Node, REST API**
 
 - 🤝 I’m looking for help **with Competitive Programming💻 + DevOps.**
 
-- 🌱 I’m currently learning **Angular, Node.JS, AWS.**
+- 🌱 I’m currently learning **Angular and AWS.**
 
 - 📌 Goals **5⭐ at CodeChef, Master Django framework, learn Node.JS.**
 
