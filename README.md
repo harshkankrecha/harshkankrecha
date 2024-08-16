@@ -3,13 +3,11 @@
 
 - 👀 I’m interested in **Programming**
 
-- 💬 Ask me about **Python, Java, Javascript, C++, Django, React, Express, Node, REST API**
+- 💬 Ask me about **Python, Java, Javascript, C++, Django, React, Spring, REST API**
 
-- 🤝 I’m looking for help **with Competitive Programming💻 + DevOps.**
+- 🌱 I’m currently learning **Solidity, BlockChain and AWS.**
 
-- 🌱 I’m currently learning **Angular and AWS.**
-
-- 📌 Goals **5⭐ at CodeChef, Master Django framework, learn Node.JS.**
+- 📌 Goals **Master BlockChain && AWS**
 
 - 📫 How to reach me **harsh.kankrecha.20031@iitgoa.ac.in**
 
